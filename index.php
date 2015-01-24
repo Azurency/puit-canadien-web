@@ -13,7 +13,8 @@
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
     <script src="assets/vendor/d3/d3.min.js" charset="utf-8"></script>
     <script src="assets/vendor/c3/c3.min.js"></script>
-    <script src="assets/vendor/highcharts/highcharts.js"></script>
+    <!--<script src="assets/vendor/highcharts/highcharts.js"></script>-->
+    <script src="assets/vendor/highcharts/highstock.js"></script>
     <script src="assets/vendor/highcharts/exporting.js"></script>
     <script src="assets/js/datepicker.js"></script>
     <script src="assets/js/datepicker.fr.js"></script>
