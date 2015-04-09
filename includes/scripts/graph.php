@@ -208,6 +208,9 @@ var oppppt = {
                         ordinal: false
                     }
                 },
+                legend: {
+                  enabled: true
+                },
                 title: {text: ' '},
                 rangeSelector : {
                     buttons: [{
